@@ -5,7 +5,7 @@ import os
 import random
 from collections import Counter
 
-TOKEN = os.getenv('7801066988:AAGicTGnR9SvIz6V0E20WbEgmULnGTdXRMg')
+TOKEN = os.getenv(7801066988:AAGicTGnR9SvIz6V0E20WbEgmULnGTdXRMg)
 
 valores_ordem = {'2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7,
                  '8': 8, '9': 9, '10': 10, 'J': 11, 'Q': 12, 'K': 13, 'A': 14}

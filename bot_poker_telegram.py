@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # 👉 Coloque aqui seu Token do BotFather:
-TOKEN = "SEU_TOKEN_AQUI"
+TOKEN = "7801066988:AAGicTGnR9SvIz6V0E20WbEgmULnGTdXRMg"
 
 
 # Função de análise da mão pré-flop
